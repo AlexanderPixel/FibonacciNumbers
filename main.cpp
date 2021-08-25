@@ -1,11 +1,3 @@
-//
-//  main.cpp
-//  Числа Фибоначи
-//
-//  Created by Александр Ткаченко on 08.03.2020.
-//  Copyright © 2020 Александр Ткаченко. All rights reserved.
-//
-
 #include <iostream>
 using namespace std;
 
